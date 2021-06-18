@@ -37,7 +37,7 @@ GET → localhost:8080/mutant/
 
 **Análisis filtrados por isMutant, Mutantes o Humanos**
 
-GET → https://springgcp-317004.rj.r.appspot.com/mutant/
+GET → https://springgcp-317004.rj.r.appspot.com/mutant/query?isMutant=true
 
 GET → localhost:8080/mutant/query?isMutant=true
 
